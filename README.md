@@ -6,22 +6,22 @@ Reg No: 25BAI11366
 
 Branch: B.Tech CSE (AI&ML) (First Year)
 
-# Introduction
+## Introduction
 I’m Mohit Nagar, and I’ve been acting as the Student Digital Ambassador for this project. My goal here was to build a portfolio that shows I can handle the digital side of college life—from keeping my profiles professional to staying safe from online scams. Everything is organized into the folders below as per the project brief.
 # What's in this Repo?
 
-# task-1-presentation/
+## task-1-presentation/
 I made an infographic using Canva to explain what digital literacy actually is. I focused on safety and professional presence because those are the big ones for freshers.
-# task-2-portfolio/
+## task-2-portfolio/
 I set up and updated profiles on GitHub, LinkedIn, and Kaggle to start my professional journey.
-# task-3-platforms/
+## task-3-platforms/
 I tried out HackerRank for coding practice and finished a beginner challenge. I also built a 5-question quiz on Google Forms to test my batchmates on their digital knowledge.
 
 google form link :
 https://docs.google.com/forms/d/e/1FAIpQLSfGSbxY6qtdQdB8pnoVx1aLNBm9J8HY6jTlrhk4qIU6OhxalA/viewform?usp=publish-editor
-# task-4-email-etiquette/
+## task-4-email-etiquette/
 In here, I’ve put two email drafts: one for a professor and one for an internship. There’s also a list of 10 things to do (and not do) on social media.
-# task-5-cybercrime/
+## task-5-cybercrime/
 I did a case study on [Phishing/UPI Fraud]. It’s scary how easy it is to get tricked, so I made a safety checklist that includes the 1930 helpline number.
-# report/
+## report/
 This is my final project report (PDF) where I’ve written down all my reflections for the 5 tasks.
