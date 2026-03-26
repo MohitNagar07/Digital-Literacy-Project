@@ -22,6 +22,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfGSbxY6qtdQdB8pnoVx1aLNBm9J8HY6jTlrhk4
 ## task-4-email-etiquette/
 In here, I’ve put two email drafts: one for a professor and one for an internship. There’s also a list of 10 things to do (and not do) on social media.
 ## task-5-cybercrime/
-I did a case study on [Phishing/UPI Fraud]. It’s scary how easy it is to get tricked, so I made a safety checklist that includes the 1930 helpline number.
+I did a case study on UPI Fraud. It’s scary how easy it is to get tricked, so I made a safety checklist that includes the 1930 helpline number.
 ## report/
 This is my final project report (PDF) where I’ve written down all my reflections for the 5 tasks.
