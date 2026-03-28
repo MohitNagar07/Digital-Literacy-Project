@@ -25,3 +25,15 @@ In here, I’ve put two email drafts: one for a professor and one for an interns
 I did a case study on UPI Fraud. It’s scary how easy it is to get tricked, so I made a safety checklist that includes the 1930 helpline number.
 ## report/
 This is my final project report (PDF) where I’ve written down all my reflections for the 5 tasks.
+
+## Key Links
+
+GitHub:     https://github.com/
+
+Canva:      https://www.canva.in/
+
+LinkedIn:   https://in.linkedin.com/
+
+HackerRank: https://www.hackerrank.com/
+
+Kaggle:     https://www.kaggle.com/
